@@ -7,7 +7,7 @@
 
 
 > **If the video has an error, reload the page!**<br>
-> Access the online project here  **[AQUI]()**
+> Access the online project here  **[AQUI]( https://luckxsz.github.io/Battery-Device-Detector-5/)**
 
 
 ## 🤓Technologies Used
