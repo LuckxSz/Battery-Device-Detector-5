@@ -1,7 +1,7 @@
 <strong><div align="center">
  📹 Project Showcase
 
-  <video src="                 ">
+  <video src="https://github.com/LuckxSz/Battery-Device-Detector-5/assets/135531180/5240612e-a753-4dfc-b651-531f80ac366d">
 </div>
 
 
